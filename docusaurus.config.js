@@ -7,13 +7,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://Breadlicia.github.io',
-  baseUrl: '/docusaurus/build',
+  baseUrl: '/docusaurus/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Breadlicia', // Usually your GitHub org/user name.
   projectName: 'Breadlicia.github.io', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
   presets: [
     [
       '@docusaurus/preset-classic',
