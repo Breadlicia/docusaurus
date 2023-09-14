@@ -5,6 +5,15 @@
  */
 
 /* You can override the default Infima variables here. */
+@font-face {
+  font-family: 'Wanpaku';
+  src: url('/font/Wanpaku.woff2') format('woff2'),
+      url('/font/Wanpaku.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: rgb(33, 175, 144);
