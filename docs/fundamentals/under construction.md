@@ -1,3 +1,8 @@
+---
+sidebar_label: 'LST Stacking'
+sidebar_position: 1
+---
+
 # Preface
 
 LST is a guideline 2-7 stacking strategy that can efficiently output a B2B T-spin every bag, and last as long as the player wants. The 2w stack, (in this case, the left stack) will always consist of the L, S, and T pieces. Hence the name LST.
