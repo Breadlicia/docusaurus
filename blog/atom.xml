@@ -17,10 +17,6 @@
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
         </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
@@ -40,8 +36,8 @@
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
+            <name>Breadlicia</name>
+            <uri>https://github.com/Breadlicia</uri>
         </author>
     </entry>
     <entry>
