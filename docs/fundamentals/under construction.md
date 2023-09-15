@@ -18,7 +18,7 @@ By far the simplest way to LST stack. The L and S on the 2w is mirrored on the 7
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf330245-07ea-46ca-a1b7-8eacd5519236
 
-Thanks to ![Garbo](https://jstris.jezevec10.com/ultra?display=5&user=Garbo) for the awesome LSJZ replays.
+Thanks to Garbo for the awesome LSJZ replays.
 
 Note that you can place the overhang on either stack. This is in contrast to ST stacking, where the overhang is always forced to be on the 7w.
 
