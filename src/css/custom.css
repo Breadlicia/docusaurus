@@ -7,11 +7,10 @@
 /* You can override the default Infima variables here. */
 @font-face {
   font-family: 'franklin_gothic_mediumregular';
-  src: url('font/franklin.woff2') format('woff2'),
-       url('font/franklin.woff') format('woff');
+  src: url('/font/franklin.woff2') format('woff2'),
+       url('/font/franklin.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 :root {
