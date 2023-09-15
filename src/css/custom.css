@@ -6,16 +6,16 @@
 
 /* You can override the default Infima variables here. */
 @font-face {
-  font-family: 'Wanpaku';
-  src: url('/font/Wanpaku.woff2') format('woff2'),
-      url('/font/Wanpaku.woff') format('woff');
+  font-family: 'franklin_gothic_mediumregular';
+  src: url('fonts/framd-webfont.woff2') format('woff2'),
+       url('fonts/framd-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
+
 }
 
 :root {
-  --ifm-font-family-base: 'Wanpaku';
+  --ifm-font-family-base: 'franklin_gothic_mediumregular';
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: rgb(33, 175, 144);
   --ifm-color-primary-darker: rgb(31, 165, 136);
