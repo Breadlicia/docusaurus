@@ -56,8 +56,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/breadlicia/docusaurus',
-            label: 'github',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository'
           },
         ],
       },
