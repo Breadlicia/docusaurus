@@ -43,8 +43,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       navbar: {
         logo: {
           alt: 'documentation logo',
-          src: 'img/lmdocslogo.png',
-          srcDark: 'img/dmdocslogo.png',
+          src: 'img/docslogolightmode.svg',
+          srcDark: 'img/docslogodarkmode.svg',
         },
         items: [
           {
