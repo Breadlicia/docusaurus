@@ -41,9 +41,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Softdrop Wiki',
         logo: {
-          alt: 'Softdrop Icon',
+          alt: 'documentation logo',
           src: 'img/icon.png',
         },
         items: [
