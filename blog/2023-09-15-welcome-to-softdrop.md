@@ -1,7 +1,7 @@
 ---
 slug: welcome-to-softdrop
 title: Welcome To Softdrop!
-authors: Breadlicia, runthebot
+authors: Breadlicia, RunTheBot
 ---
 
 # Will edit this later
