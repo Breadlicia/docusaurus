@@ -53,9 +53,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/breadlicia/docusaurus',
+            // Replace the text with an image
             html: `
               <img
                 src="/img/github-mark-white.png"
