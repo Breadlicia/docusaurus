@@ -4,9 +4,15 @@
         <title>Softdrop Blog</title>
         <link>https://Breadlicia.github.io/docusaurus/blog</link>
         <description>Softdrop Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome To SoftDrop!]]></title>
+            <link>https://Breadlicia.github.io/docusaurus/blog/welcome-to-softdrop</link>
+            <guid>welcome-to-softdrop</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Breadlicia.github.io/docusaurus/blog/welcome</link>
